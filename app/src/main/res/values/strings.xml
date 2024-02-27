@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CalculatorPro</string>
+    <string name="sqrt">sqrt</string>
+    <string name="log2">log2</string>
+    <string name="ln">ln</string>
+    <string name="leftb">(</string>
+    <string name="rightb">)</string>
+    <string name="x_y">x^y</string>
+    <string name="clear">AC</string>
+    <string name="back">back</string>
+    <string name="percent">%</string>
+    <string name="div">/</string>
+    <string name="sin">sin</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="mul">*</string>
+    <string name="cos">cos</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sub">-</string>
+    <string name="pi">pi</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="add">+</string>
+    <string name="e">e</string>
+    <string name="_000">000</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="equal">=</string>
+
+</resources>
